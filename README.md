@@ -1,15 +1,13 @@
 # KODLUYORUZ ILK REPO
-## [Kodluyoruz Eğtimi](https://kodluyoruz.org) kapsamında açtığım ilk repo.
+## [Kodluyoruz](https://kodluyoruz.org) [Eğtimi](https://app.patika.dev/paths) kapsamında açtığım ilk repo.
 Bu ödevin içerisinde 
 - Readme
 - index.html 
+- img klasörü
+
 dosyaları bulunmaktadır.
 
----
-
-fotoğraf eklenecek
-
----
+![MyProject](img/31.png)
 
 
 ## Installation
@@ -20,6 +18,8 @@ Projenin clone'lanması gerekiyor. Bu sebeple aşağıdaki link ile VSC'de clone
 
 
 ## Usage
+---
+
 
 İndirilen clone projenin dizinini bulup giriyoruz.
 
@@ -31,10 +31,15 @@ cloneladığımız reponun bulunduğu klasöre girdikten sonra
 
 kodu ile VSC'de dosyamızı çalıştırıyoruz.
 
+---
 ## Contributing
+
 
 Projeyi istediğiniz gibi değiştirebilir, çeşitlendirebilirsiniz.
 
+---
+
 ## Lincense
+
 
 [MIT License](LICENSE)
